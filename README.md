@@ -12,10 +12,9 @@ Installation instructions can be found at: https://wkhtmltopdf.org/
 ## Python Libraries
 
 ```
-import requests
-import os
-from bs4 import BeautifulSoup
-import pdfkit
+pip install requests
+pip install beautifulsoup4
+pip install pdkit
 ```
 
 ## Execute Program
